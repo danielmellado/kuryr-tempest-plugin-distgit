@@ -1,0 +1,5 @@
+[gerrit]
+host=review.rdoproject.otg
+port=29418
+project=openstack/kuryr-tempest-plugin-distgit
+defaultbranch=rpm-master
